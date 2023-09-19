@@ -1,0 +1,5 @@
+---
+- src: https://github.com/RedHatOfficial/ansible-role-rhel8-cis.git
+  scm: git
+  version: master
+  name: RedHatOfficial.rhel8_cis
